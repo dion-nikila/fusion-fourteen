@@ -1,0 +1,4 @@
+.DS_Store
+working-assets/
+*.zip
+node_modules/
